@@ -1,0 +1,11 @@
+1. Buat 1 project kemudian push project tsb ke github
+2. clone project yang di server github
+3. rename project yang sudah di clone
+4. buat 5x commit dimasing-masing project
+
+HARI KAMIS
+VSCODE
+NODE Terbaru / update nodenya
+POSTMAN
+GIT
+XAMPP
