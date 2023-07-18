@@ -4,6 +4,7 @@
 4. buat 5x commit dimasing-masing project
 
 
+
 HARI KAMIS
 VSCODE
 NODE Terbaru/update nodenya
