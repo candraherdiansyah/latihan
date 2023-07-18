@@ -5,7 +5,7 @@
 
 HARI KAMIS
 VSCODE
-NODE Terbaru / update nodenya
+NODE Terbaru/update nodenya
 POSTMAN
 GIT
 XAMPP
