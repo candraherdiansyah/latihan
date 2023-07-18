@@ -3,6 +3,7 @@
 3. rename project yang sudah di clone
 4. buat 5x commit dimasing-masing project
 
+
 HARI KAMIS
 VSCODE
 NODE Terbaru/update nodenya
